@@ -4,7 +4,6 @@
   "description": "A Wenyan-lang HTTP API. 文言文编程语言HTTP API。",
   "scripts": {
     "dev": "esno server.ts",
-    "copy": "esno utils/copy.ts",
     "wyg": "esno wyg/cli.ts",
     "ignore": "esno utils/ignore.ts"
   },
