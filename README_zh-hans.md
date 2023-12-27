@@ -1,5 +1,8 @@
-# 文言 API
-文言文编程语言 HTTP API.
+<p align="center">
+    <img src="./.github/wenyan.png" style="height: 90px;"/>
+</p>
+<h1 align="center">文言 API</h1>
+<p align="center">文言文编程语言 HTTP API.</p>
 
 English README: [README.md](./README.md)
 

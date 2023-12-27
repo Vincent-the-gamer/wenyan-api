@@ -1,5 +1,8 @@
-# Wenyan API
-Wenyan-lang HTTP API.
+<p align="center">
+    <img src="./.github/wenyan.png" style="height: 90px;"/>
+</p>
+<h1 align="center">Wenyan API</h1>
+<p align="center">Wenyan-lang HTTP API.</p>
 
 中文文档: [README_zh-hans.md](./README_zh-hans.md)
 
