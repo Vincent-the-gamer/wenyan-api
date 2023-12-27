@@ -50,7 +50,7 @@ const port = 8080
 ~~~json
 {
 	"code": 200,
-	"stdout": "問天地好在。\n問天地好在。\n問天地好在。\n"
+	"data": "問天地好在。\n問天地好在。\n問天地好在。\n"
 }
 ~~~
 
@@ -61,7 +61,7 @@ axios.post("http://localhost:8080",{
     code: "吾有一數。曰三。名之曰「甲」。為是「甲」遍。吾有一言。曰「「問天地好在。」」。書之。云云。"
 }).then(
     res => {
-        console.log(res.data.stdout)
+        console.log(res.data.data)
     }
 )
 ~~~
