@@ -5,7 +5,7 @@
 <p align="center">Wenyan-lang HTTP API.</p>
 
 > [!IMPORTANT]
-> Function of this repo has integrated in [Vincent-the-gamer/api](https://github.com/Vincent-the-gamer/api), now archive the repo.
+> Function of this repo has been integrated in [Vincent-the-gamer/api](https://github.com/Vincent-the-gamer/api), now archive the repo.
 
 中文文档: [README_zh-hans.md](./README_zh-hans.md)
 
